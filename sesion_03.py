@@ -52,9 +52,7 @@ else:
  # jueves
  # viernes
 mi_lista_3 = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes"]
-
 c = 0
-
 while c < 3:   
     for dia in mi_lista_3:
         if dia != "Lunes":

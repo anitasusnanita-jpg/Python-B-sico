@@ -38,7 +38,7 @@ else:
  #Dada la lista mi_lista_2 = ["Lunes","Martes","Miercoles","Jueves","Viernes"]
  # Imprimir cada elemento de la lista 3 veces y cuando sea lunes no lo incluyas
  # Pista: Usa los dos tipos de loops while y for en el mismo programa para lograrlo
- # Resultado:
+ # Resultadoo:
  # martes
  # miercoles
  # jueves
